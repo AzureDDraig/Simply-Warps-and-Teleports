@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "simply_warps:item/end_crystal"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "simply_warps:warp_crystal_dimension": 0
+      },
+      "model": "simply_warps:item/warp_crystal_0"
+    },
+    {
+      "predicate": {
+        "simply_warps:warp_crystal_dimension": 1
+      },
+      "model": "simply_warps:item/warp_crystal_1"
+    }
+  ]
+}

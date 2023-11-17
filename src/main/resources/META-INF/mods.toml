@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU Lesser General Public License version 2.1 (LGPLv2.1)"
+
+[[mods]]
+modId="simply_warps"
+version="1.0.0"
+displayName="Simply Warps and Teleports"
+credits="Azureddraig"
+displayURL="https://discord.gg/GTgx6tYjg2"
+authors="Azureddraig"
+
+[[dependencies.simply_warps]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
